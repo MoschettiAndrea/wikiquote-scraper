@@ -4,7 +4,7 @@ A small NLP project for scraping Wikiquote pages and experimenting with neural t
 
 ## Overview
 
-The project contains two related workflows:
+The project contains two related notebooks:
 
 * **Multi-page scraping:** collects quotes from multiple Wikiquote pages and stores the extracted data in a JSON file.
 * **Text generation:** scrapes a Wikiquote page, processes the extracted text, trains a neural language model, and generates text from a given seed.
